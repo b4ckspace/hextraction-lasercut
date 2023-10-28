@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#808080"
      inkscape:document-units="mm"
-     inkscape:zoom="1.6266975"
-     inkscape:cx="247.12646"
-     inkscape:cy="359.93169"
+     inkscape:zoom="0.81334875"
+     inkscape:cx="299.99431"
+     inkscape:cy="240.3643"
      inkscape:window-width="1920"
      inkscape:window-height="1162"
      inkscape:window-x="0"
@@ -84,36 +84,6 @@
          id="path12"
          style="fill:none;stroke:#000000;stroke-width:0.025999;stroke-linecap:round;stroke-linejoin:round" />
     </g>
-    <path
-       d="m 103.43069,99.86352 v 14 h 6.1 v -14 h -6.1"
-       class="s5"
-       id="path1-2"
-       style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
-    <path
-       d="m 96.314286,99.86352 v 14 h 6.100004 v -14 h -6.100004"
-       class="s5"
-       id="path1-2-2"
-       style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
-    <path
-       d="m 89.197882,99.86352 v 14 h 6.1 v -14 h -6.1"
-       class="s5"
-       id="path1-2-4"
-       style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
-    <path
-       d="m 117.79649,87.183891 v 13.999999 h 6.1 V 87.183891 h -6.1"
-       class="s5"
-       id="path1-2-0"
-       style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
-    <path
-       d="m 117.7965,101.80487 v 13.99999 h 6.09999 v -13.99999 h -6.09999"
-       class="s5"
-       id="path1-2-2-3"
-       style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
-    <path
-       d="m 110.54709,99.863519 v 14.000001 h 6.10001 V 99.863519 h -6.10001"
-       class="s5"
-       id="path1-2-4-6"
-       style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
     <g
        id="g2"
        transform="rotate(90,29.695613,70.679782)">
@@ -368,5 +338,35 @@
          id="path12-9-5-4-0"
          style="fill:none;stroke:#000000;stroke-width:0.023509;stroke-linecap:round;stroke-linejoin:round" />
     </g>
+    <path
+       d="m 91.195394,99.863527 v 13.999483 h 6.599475 V 99.863527 h -6.599475"
+       class="s5"
+       id="path1-0"
+       style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       d="M 99.194729,99.863527 V 113.86301 H 105.7942 V 99.863527 h -6.599471"
+       class="s5"
+       id="path1-9"
+       style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       d="m 107.19405,99.863527 v 13.999483 h 6.59949 V 99.863527 h -6.59949"
+       class="s5"
+       id="path1-3"
+       style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       d="m 115.19339,99.863527 v 13.999483 h 6.59948 V 99.863527 h -6.59948"
+       class="s5"
+       id="path1-20"
+       style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       d="m 115.33245,84.856442 v 13.99948 h 6.59948 v -13.99948 h -6.59948"
+       class="s5"
+       id="path1-5"
+       style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       d="m 115.33245,70.030706 v 13.999483 h 6.59948 V 70.030706 h -6.59948"
+       class="s5"
+       id="path1-7"
+       style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
   </g>
 </svg>

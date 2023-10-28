@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#808080"
      inkscape:document-units="mm"
-     inkscape:zoom="1.6266975"
-     inkscape:cx="375.30025"
-     inkscape:cy="363.00541"
+     inkscape:zoom="0.57512442"
+     inkscape:cx="259.07438"
+     inkscape:cy="259.94375"
      inkscape:window-width="1920"
      inkscape:window-height="1162"
      inkscape:window-x="0"
@@ -268,34 +268,34 @@
          style="fill:none;stroke:#000000;stroke-width:0.033991;stroke-linecap:round;stroke-linejoin:round" />
     </g>
     <path
-       d="m 133.50761,105.14016 h -13.99998 v 6.1 h 13.99998 v -6.1"
+       d="m 32.770229,106.61931 h 13.99948 v -6.59948 h -13.99948 v 6.59948"
        class="s5"
-       id="path1-2-2-3-6"
+       id="path1-0"
        style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
     <path
-       d="m 118.35645,107.5554 h -13.99998 v 6.1 h 13.99998 v -6.1"
+       d="m 32.798982,113.72059 h 13.999481 v -6.59948 H 32.798982 v 6.59948"
        class="s5"
-       id="path1-2-2-3-6-1"
+       id="path1-9"
        style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
     <path
-       d="m 141.10128,69.880707 -12.12434,-6.99999 -3.05,5.282754 12.12434,6.99999 3.05,-5.282754"
+       d="m 134.04157,106.28316 h -13.99949 v 6.59948 h 13.99949 v -6.59948"
        class="s5"
-       id="path1-2-2-3-6-5"
+       id="path1-3"
        style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
     <path
-       d="m 118.35645,100.68303 h -13.99998 v 6.1 h 13.99998 v -6.1"
+       d="m 104.26534,114.62063 h 13.99948 v -6.59948 h -13.99948 v 6.59948"
        class="s5"
-       id="path1-2-2-3-6-59"
+       id="path1-20"
        style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
     <path
-       d="m 45.793277,100.6306 h -13.99998 v 6.1 h 13.99998 v -6.1"
+       d="m 104.26534,106.80043 h 13.99948 v -6.59948 h -13.99948 v 6.59948"
        class="s5"
-       id="path1-2-2-3-6-4"
+       id="path1-20-0"
        style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
     <path
-       d="m 45.836701,108.12356 h -13.99998 v 6.1 h 13.99998 v -6.1"
+       d="m 126.61427,68.163721 12.1239,6.99974 3.29974,-5.71532 -12.1239,-6.99974 -3.29974,5.71532"
        class="s5"
-       id="path1-2-2-3-6-7"
+       id="path1-20-5"
        style="fill:none;stroke:#000000;stroke-width:0.013003;stroke-linecap:round;stroke-linejoin:round" />
   </g>
 </svg>
